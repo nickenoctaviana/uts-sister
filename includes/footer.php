@@ -46,22 +46,22 @@
   </div>
 
   <!-- Bootstrap core JavaScript-->
-  <script src="../vendor/jquery/jquery.min.js"></script>
-  <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/jquery.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/bootstrap.bundle.min.js"></script>
 
   <!-- Core plugin JavaScript-->
-  <script src="../vendor/jquery-easing/jquery.easing.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/jquery.easing.min.js"></script>
 
   <!-- Custom scripts for all pages-->
-  <script src="../js/sb-admin-2.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/sb-admin-2.min.js"></script>
 
   <!-- Page level plugins -->
-  <script src="../vendor/datatables/jquery.dataTables.min.js"></script>
-  <script src="../vendor/datatables/dataTables.bootstrap4.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/jquery.dataTables.min.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/dataTables.bootstrap4.min.js"></script>
 
   <!-- Page level custom scripts -->
-  <script src="../js/demo/datatables-demo.js"></script>
-  <script src="../js/city.js"></script> 
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/datatables-demo.js"></script>
+  <script src="https://objectstorage.ap-melbourne-1.oraclecloud.com/p/zIYp9Jkt_4noU48ssRv_scqDbsVf557KmuGcRMF9ozf0tC7ZFvLHFXrSf7-fAj5D/n/axmyzxfexh3t/b/uts/o/city.js"></script> 
   
 
 <!-- PROFILE OVERLAY NA MODAL -->
